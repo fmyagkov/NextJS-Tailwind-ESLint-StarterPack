@@ -1,13 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Starter Pack for a project using [Next.js](https://nextjs.org/) with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), [TailwindCSS](https://tailwindcss.com/), [Material Tailwind](https://www.material-tailwind.com/), and a basic Eslint and Prettier Combo. Feel free to use whenever you want to start a new project!
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repo
+
+Then install the packages:
+
+```bash
+npm install
+```
+
+Then run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
